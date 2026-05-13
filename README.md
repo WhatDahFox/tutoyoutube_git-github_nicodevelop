@@ -7,7 +7,7 @@ git init
 git remote add origin SSH_REPO
 ```
 
-## Rédiger un commit
+## Rédiger un commit (proprement)
 
 ```
 Titre du commit
@@ -20,4 +20,10 @@ Description du commit avec info sur l'évolution du projet
 git add.
 git commit -m "Titre du commit"
 git push origin main
+```
+
+## Création d'une branche
+
+```bash
+git checkout -b "Nom de la branche"
 ```
