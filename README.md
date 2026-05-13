@@ -28,4 +28,6 @@ git push origin main
 git checkout -b "Nom de la branche"
 ```
 
+## Demander un pull request
+
 Pour les bonnes pratique, on va intégrer la notion de revue de code. Pour cela, on va créer une branche, faire des modifications, les envoyer sur le dépôt à distance, puis créer un pull request pour demander une revue de code.
